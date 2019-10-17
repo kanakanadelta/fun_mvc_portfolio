@@ -1,0 +1,14 @@
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.deps.json
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.runtimeconfig.json
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.runtimeconfig.dev.json
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.dll
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.pdb
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.csprojAssemblyReference.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.csproj.CoreCompileInputs.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorAssemblyInfo.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorAssemblyInfo.cs
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.AssemblyInfoInputs.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.AssemblyInfo.cs
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorTargetAssemblyInfo.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.dll
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.pdb
