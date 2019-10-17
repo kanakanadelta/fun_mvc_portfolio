@@ -25,7 +25,7 @@ namespace PortfolioProject
             {
                 app.UseDeveloperExceptionPage();
             }
-            app.UseStaticFiles();
+            app.UseStaticFiles(); //middleware allows our app to access our static files.
             app.UseMvc();
         }
                 public Startup(IHostingEnvironment env)

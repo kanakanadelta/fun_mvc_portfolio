@@ -2961,8 +2961,18 @@
   "RootNamespace": "PortfolioProject",
   "Documents": [
     {
+      "FilePath": "Views/Home/Projects.cshtml",
+      "TargetPath": "Views/Home/Projects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "Views/Home/Index.cshtml",
       "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Views/Home/Contact.cshtml",
+      "TargetPath": "Views/Home/Contact.cshtml",
       "FileKind": "mvc"
     }
   ],

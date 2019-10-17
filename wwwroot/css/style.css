@@ -1,0 +1,107 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+}
+
+nav li:not(:last-child) {
+  border-right: 1px solid #000;
+}
+
+nav li {
+  padding: 0 20px;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+#home_main_contents {
+  display: flex;
+}
+
+.home_main_content {
+  width: 50%;
+
+  padding: 5%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#home_main_bio {
+  justify-content: flex-start;
+}
+
+/* PROJECTS */
+
+#projects_main {
+  height: 100%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#projects_container {
+  overflow-y: auto;
+  width: 75%;
+  border: 1.5px solid #000;
+  
+  display: flex;
+  flex-flow: column;
+  height: 500px
+}
+
+.project_item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2.5%;
+}
+
+.project_img {
+  background: url(https://1.bp.blogspot.com/-ITJZPb5KwZ4/WORMbITvlSI/AAAAAAAADnQ/5K8C9ttSGWUAHDMoAeDckSg_8vjSw6dogCLcB/s1600/17796199_1428613613823956_640886712853446645_n_waifu2x_art_noise3_scale_tta_1.png)no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 160px;
+  width: 20%;
+  margin: 10px;
+}
+
+.project_info {
+  width: 80%;
+}
+
+/* CONTACt */
+
+#contact_form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#contact_form_left {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-content: center;
+}
+
+#contact_message {
+  display: flex;
+  flex-direction: column;
+}

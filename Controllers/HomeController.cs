@@ -7,21 +7,21 @@ public class HomeController : Controller
     // START CONTROLLER //
    //////////////////////
     [HttpGet("")]
-    public string Index()
+    public ViewResult Index()
     {
-      return "This is my Index!";
+      return View();
     } 
 
     [HttpGet("projects")]
-    public string Projects()
+    public ViewResult Projects()
     {
-      return "This are my Projects!";
+      return View();
     } 
 
     [HttpGet("Contact")]
-    public string Contact()
+    public ViewResult Contact()
     {
-      return "This is my Contact!";
+      return View();
     } 
 
 

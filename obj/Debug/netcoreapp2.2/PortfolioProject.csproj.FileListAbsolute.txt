@@ -21,3 +21,5 @@
 /Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorTargetAssemblyInfo.cs
 /Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.Views.pdb
 /Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.csproj.CopyComplete
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Projects.g.cshtml.cs
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Contact.g.cshtml.cs
