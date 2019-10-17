@@ -25,7 +25,7 @@ namespace PortfolioProject
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseStaticFiles();
             app.UseMvc();
         }
                 public Startup(IHostingEnvironment env)

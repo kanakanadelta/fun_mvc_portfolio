@@ -2959,6 +2959,12 @@
     "CSharpLanguageVersion": 800
   },
   "RootNamespace": "PortfolioProject",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "Views/Home/Index.cshtml",
+      "TargetPath": "Views/Home/Index.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }

@@ -12,3 +12,12 @@
 /Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorTargetAssemblyInfo.cache
 /Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.dll
 /Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.pdb
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.Views.dll
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/bin/Debug/netcoreapp2.2/PortfolioProject.Views.pdb
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.TagHelpers.input.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.TagHelpers.output.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorCoreGenerate.cache
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.RazorTargetAssemblyInfo.cs
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.Views.pdb
+/Users/rtongson/Documents/csharp/mvcfun/PortfolioProject/obj/Debug/netcoreapp2.2/PortfolioProject.csproj.CopyComplete
